@@ -1,6 +1,8 @@
 # CODE-BUSTERS-124
 Aura : the future of contactless interaction
 # JARVIS Voice Assistant
+Note: Must download the datasets in model packages.
+use the link 🔗: https://drive.google.com/drive/folders/1KuCzEP4wvrJWs_m3LyzqgoenfMtDL0is
 
 An advanced AI voice assistant with multiple capabilities including object detection, home automation, and more.
 
