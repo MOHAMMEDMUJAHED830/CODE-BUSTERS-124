@@ -23,3 +23,15 @@ An advanced AI voice assistant with multiple capabilities including object detec
    ```bash
    git clone https://github.com/MOHAMMEDMUJAHED830/CODE-BUSTERS-124
    cd CODE-BUSTERS-124
+
+   Install dependencies:
+
+bash
+pip install -r requirements.txt
+Download required model files and place them in the models/ directory:
+
+YOLOv3 weights and configuration
+
+Age and gender detection models
+
+Configure API keys in the code (replace placeholders with your actual keys)
